@@ -1,0 +1,7 @@
+func_op.c:19: error: invalid operands to binary expression
+func_op.c:20: error: incompatible return types
+func_op.c:34: error: incompatible arguments in function call
+func_op.c:35: error: incompatible arguments in function call
+func_op.c:39: error: incompatible arguments in function call
+func_op.c:41: error: incompatible types for assignment operation
+func_op.c:42: error: incompatible arguments in function call

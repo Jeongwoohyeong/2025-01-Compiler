@@ -1,0 +1,10 @@
+ptr_op.c:9: error: lvalue is not assignable
+ptr_op.c:13: error: cannot take the address of an rvalue
+ptr_op.c:16: error: invalid operands to binary expression
+ptr_op.c:17: error: invalid argument type to unary expression
+ptr_op.c:18: error: invalid argument type to unary expression
+ptr_op.c:20: error: incompatible types for assignment operation
+ptr_op.c:23: error: incompatible types for assignment operation
+ptr_op.c:24: error: invalid argument type to unary expression
+ptr_op.c:25: error: invalid argument type to unary expression
+ptr_op.c:27: error: types are not comparable in binary expression

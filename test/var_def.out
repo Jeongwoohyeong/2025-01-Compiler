@@ -1,0 +1,3 @@
+var_def.c:7: error: redeclaration
+var_def.c:9: error: redeclaration
+var_def.c:25: error: use of undeclared identifier

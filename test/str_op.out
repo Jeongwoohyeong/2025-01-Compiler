@@ -1,0 +1,5 @@
+str_op.c:18: error: redeclaration
+str_op.c:34: error: incompatible types for assignment operation
+str_op.c:38: error: incompatible types for assignment operation
+str_op.c:40: error: incompatible types for assignment operation
+str_op.c:43: error: incompatible types for assignment operation
